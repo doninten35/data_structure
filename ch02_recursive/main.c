@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void exam_1_1(int n) {
+void exam_1_1(int n) { /////54321
 
 	if (n > 0) {
 		printf("%d", n);
